@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula06_Exercicio02</string>
+    <string name="cpf">Insira seu CPF:</string>
+    <string name="nome">Insira seu nome:</string>
+    <string name="Local">Exibir Local de Registro</string>
+    <string name="Voltar">Voltar</string>
+</resources>
