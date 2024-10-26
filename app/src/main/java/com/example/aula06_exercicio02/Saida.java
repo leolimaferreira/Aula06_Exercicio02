@@ -1,3 +1,6 @@
+/*
+ *@author:<Leonardo Lima 1110482423021>
+ */
 package com.example.aula06_exercicio02;
 
 import android.content.Intent;
@@ -45,7 +48,7 @@ public class Saida extends AppCompatActivity {
             return;
         }
 
-        char nonoDigito = cpf.charAt(8); // O nono dígito é o 9º caracter (índice 8)
+        char nonoDigito = cpf.charAt(8);
 
         switch (nonoDigito) {
             case '1':
